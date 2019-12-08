@@ -18,5 +18,7 @@ Acess your context menu hover UUID-Generator and select the desired option.
 
 Your fresh new UUID is ready to be pasted.
 
+![](https://i.imgur.com/qlmYrYOl.png)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
