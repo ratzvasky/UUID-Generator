@@ -5,6 +5,12 @@ Compliant with [RFC4122](https://www.ietf.org/rfc/rfc4122.txt).
 
 ## Installation
 
+[Temporary installation in Firefox](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)
+* clone the repository
+* open Firefox
+* enter “about:debugging” in the URL bar
+* click “Load Temporary Add-on”
+* open the repository’s directory and select any file inside the UUID-Generator folder.
 
 ## Usage
 
