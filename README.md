@@ -8,6 +8,9 @@ Compliant with [RFC4122](https://www.ietf.org/rfc/rfc4122.txt).
 
 ## Usage
 
+Acess your context menu hover UUID-Generator and select the desired option.
+
+Your fresh new UUID is ready to be pasted.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
