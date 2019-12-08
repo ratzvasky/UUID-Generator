@@ -2,14 +2,19 @@
   "manifest_version": 2,
   "name": "UUID-Generator",
   "version": "1.0",
-  "description": "Generates and paste a universally unique identifier (UUID).",
-  "icons": {
-    "48": "play_icon.png"
-  },
+  "description": "Generate and write to the clipboard a random/empty universally unique identifier (UUID).",
+  "icons": { "48": "icons/play_icon.png" },
+  "permissions": ["contextMenus", "clipboardWrite", "clipboardRead"],
+  
+   "background": {
+        "scripts": ["background.js"]
+   },
+  
   "content_scripts": [
     {
-      "matches": ["*"],
+      "matches": ["<all_urls>"],
       "js": ["UUID-Generator.js"]
     }
   ]
+
 }
