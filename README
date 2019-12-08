@@ -1,15 +1,13 @@
-{
-  "manifest_version": 2,
-  "name": "UUID-Generator",
-  "version": "1.0",
-  "description": "Generates and paste a universally unique identifier (UUID).",
-  "icons": {
-    "48": "play_icon.png"
-  },
-  "content_scripts": [
-    {
-      "matches": ["*"],
-      "js": ["UUID-Generator.js"]
-    }
-  ]
-}
+# UUID-Generator
+
+UUID-Generator is a Firefox web extension that writes your clipboard with a random or empty universally unique identifier.
+Compliant with [RFC4122](https://www.ietf.org/rfc/rfc4122.txt).
+
+## Installation
+
+
+## Usage
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
