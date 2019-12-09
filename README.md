@@ -5,7 +5,7 @@ Compliant with [RFC4122](https://www.ietf.org/rfc/rfc4122.txt).
 
 ## Installation
 
-<!-- https://addons.mozilla.org/pt-PT/firefox/addon/uuid-generator/ -->
+https://addons.mozilla.org/pt-PT/firefox/addon/uuid-generator/
 
 [Temporary installation in Firefox](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)
 * clone the repository
